@@ -44,4 +44,4 @@ I'm a open-source development enthusiast, an instructor and a freelancer.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Asik-ali)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=antonfrancisjeejo)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Asik-ali)  
