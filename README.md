@@ -42,5 +42,4 @@ I'm a open-source development enthusiast and a freelancer.
 ### GITHUB TROPHIES
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Asik-ali)]<br>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Asik-ali)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Asik-ali)
