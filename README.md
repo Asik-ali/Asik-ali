@@ -7,7 +7,7 @@
 
 ## About me 
 I'm a full stack developer. I like to work with React, Firebase, AWS, MongoDB, NodeJS and Python. 
-I'm a open-source development enthusiast, an instructor and a freelancer.
+I'm a open-source development enthusiast and a freelancer.
 
 
 ### "Code until you find your solution"! 👋
@@ -42,6 +42,6 @@ I'm a open-source development enthusiast, an instructor and a freelancer.
 
 ### GITHUB TROPHIES
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Asik-ali)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Asik-ali)]<br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Asik-ali)  
