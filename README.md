@@ -17,18 +17,14 @@ I'm a open-source development enthusiast, an instructor and a freelancer.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 
@@ -38,14 +34,14 @@ I'm a open-source development enthusiast, an instructor and a freelancer.
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=antonfrancisjeejo&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=antonfrancisjeejo&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Asik-ali&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Asik-ali&hide=css,java,html&theme=tokyonight">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonfrancisjeejo" alt="Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asik-ali" alt="Views" /> </p>
 
 ### GITHUB TROPHIES
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=antonfrancisjeejo)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Asik-ali)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=antonfrancisjeejo)  
