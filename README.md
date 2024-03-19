@@ -1,7 +1,7 @@
 # Asik Ali
 
 [![Github](https://img.shields.io/github/followers/Asik-ali?label=Follow&style=social)]([https://github.com/Asik-ali])
-[![Linkedin](https://img.shields.io/badge/Anton%20Francis%20Jeejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/asikali/)](https://www.linkedin.com/in/asikali/)
+[![Linkedin](https://img.shields.io/badge/Asik%20Ali-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/asikali/)](https://www.linkedin.com/in/asikali/)
 
 
 
